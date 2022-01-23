@@ -1,5 +1,18 @@
 # LCS Tools
+
+Use ```npm test``` or ```npm prod``` to run it.
+
+# Commands:
+## Example:
+```open gacha 1```
+### ^ This command opens a Tier 1 Gacha Pull.
+
+## Syntax:
+```open <gacha|lootbox> <1-5>```
+### or a shortened version
+```o <g|l> <1-5>```
  
+ ```
 // Debug. Test the probabilities
 /*
 console.log(a);
@@ -22,3 +35,4 @@ for(let i = 0; i < 1000000; i++) {
 
 console.log(counts);
 */
+ ```
